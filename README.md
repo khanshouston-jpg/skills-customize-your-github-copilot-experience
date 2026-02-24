@@ -4,6 +4,17 @@
 
 Learn how to configure and document project-level GitHub Copilot guidance so teammates (and future you) get consistent, helpful suggestions. By the end of this assignment you will update the repository's Copilot instructions and write a concise guide describing the changes.
 
+## 🎓 Learning objectives
+
+- Describe what project-level Copilot guidance controls and why it matters.
+- Write concise, actionable instructions for Copilot users.
+- Verify Copilot behavior locally using VS Code or a dev container.
+- Apply consistent style and language conventions across a repo.
+
+**Difficulty:** Beginner–Intermediate
+
+**Topics:** GitHub Copilot, documentation, Markdown, repository hygiene
+
 ## ⏱️ Estimated time
 
 30–60 minutes
