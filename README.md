@@ -1,86 +1,37 @@
-📘 Assignment: Customize Your GitHub Copilot Experience
+<div align="center">
 
-## 🎯 Objective
+# 🎉 Congratulations khanshouston-jpg! 🎉
 
-Configure and document project-level GitHub Copilot guidance so teammates (and future you) receive consistent, helpful suggestions. By the end of this assignment you'll update repository guidance and write a short usage guide.
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-## 🎓 Learning Outcomes
+### 🌟 You've successfully completed the exercise! 🌟
 
-- Describe what project-level Copilot guidance controls and why it matters
-- Write concise, actionable instructions for Copilot users
-- Verify Copilot behavior locally using VS Code or a dev container
-- Apply consistent style and language conventions across a repo
+## 🚀 Share Your Success!
 
-**Difficulty:** Beginner–Intermediate
+**Show off your new skills and inspire others!**
 
-**Topics:** GitHub Copilot, documentation, Markdown, repository hygiene
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkhanshouston-jpg%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkhanshouston-jpg%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkhanshouston-jpg%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-## ⏱️ Estimated Time
+### 🎯 What's Next?
 
-30–60 minutes
+**Keep the momentum going!**
 
-## ⚙️ Prerequisites
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/khanshouston-jpg/skills-customize-your-github-copilot-experience/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-- Basic familiarity with Git and GitHub
-- Comfort reading and editing Markdown
+*There's no better way to learn than building things!* 🚀
 
-## 📦 Files Provided
-
-- `.github/copilot-instructions.md` — file to update (create if missing)
-- `.devcontainer/` (optional) — dev container configuration to test locally
-- `templates/assignment-template.md` — assignment content template
-
-## 📝 Tasks
-
-### 🛠️ Task 1 — Inspect the repository
-
-#### Description
-Locate existing Copilot guidance and dev-container configuration in the repo (start in `.github/` and `.devcontainer/`).
-
-#### Requirements
-
-- List any files or locations where guidance exists (e.g., `.github/copilot-instructions.md`, `.github/copilot-instructions.yaml`)
-
-### 🛠️ Task 2 — Update `copilot-instructions.md`
-
-#### Description
-Edit or create `.github/copilot-instructions.md` to provide clear, project-specific guidance: preferred language, tone, style, coding conventions, and things Copilot should avoid.
-
-#### Requirements
-
-- Add at least four concrete guidance bullets covering language, style, examples, and do/don't items
-- Keep the tone concise and student-friendly
-
-### 🛠️ Task 3 — Add a short usage guide
-
-#### Description
-Add a short README section (or update this file) describing how contributors should use the Copilot guidance and how to test it locally.
-
-#### Requirements
-
-- Include one example prompt that follows the guidance (see example below)
-- Describe how to verify the behavior locally (opening the repo in the dev container or VS Code with Copilot)
-
-Example prompt that follows guidance:
-
-"Write a short, student-friendly function in Python that validates an email address and includes a brief usage example and unit test. Use clear variable names and add a one-line comment explaining the purpose."
-
-Verification steps (local):
-
-1. Open the repository in VS Code or the provided dev container
-2. Ensure the GitHub Copilot extension is enabled
-3. Invoke Copilot with the example prompt and confirm suggestions follow the documented style
-
-## ✅ Deliverables
-
-1. Updated `.github/copilot-instructions.md` with explicit guidance
-2. This `README.md` (this file) updated with objective, tasks, and verification steps
-
-## 📚 Resources
-
-- [GitHub Copilot documentation](https://docs.github.com/en/copilot)
-- `templates/assignment-template.md` for structure
+</div>
 
 ---
 
-© 2026 Course Materials — Educational use only
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
